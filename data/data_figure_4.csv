@@ -1,6 +1,8 @@
-interest,before,after,formatted_before,formatted_after
-Bored,11,12,11%,12%
-Not great,5,6,5%,6%
-OK,40,14,40%,14%
-Kind of interested,25,30,25%,30%
-Excited,19,38,19%,38%
+Year,Product A,Product B,Product C,Product D,Product E
+2008,395,360,,,
+2009,420,400,,,
+2010,425,410,100,,
+2011,390,375,180,160,
+2012,300,290,198,260,
+2013,270,260,240,220,98
+2014,260,250,180,215,210
