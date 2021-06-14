@@ -1,11 +1,11 @@
-# Story telling with data (Python + Bokeh) #
+# Story telling with data (Python + Bokeh)
 
 Recreation of Cole Nussbaumer Knaflic's Storytelling with Data (Wiley, 2015) plots using Python and Bokeh.
 
 Original data provided by the book's author. Located [here](http://www.storytellingwithdata.com/book/downloads).
 
 
-### About this book ###
+# About this book
 
 |||
 |---|---|
@@ -26,11 +26,49 @@ Original data provided by the book's author. Located [here](http://www.storytell
 |<img src="images/recreated/fig_0932.png">| <img src="images/recreated/fig_0929.png">|
 |||
 
-# Plots
-## Chapter 2
 
-* [FIG0203](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
-* [FIG0206](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0206.png) / [Code](FIG0206.R)
+# Plots
+
+## Chapter 2
+* [FIG0207](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+
+## Chapter 4
+* [FIG0409](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+
+## Chapter 5
+* [FIG0506](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0510](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0513](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+
+## Chapter 6
+* [FIG0601](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0602](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0603](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0604](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+
+## Chapter 8
+* [FIG0819](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+
+## Chapter 9
+* [FIG0923](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0929](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0930](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0931](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+
+* [FIG0932](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
 
 
 # Colors 
@@ -45,9 +83,9 @@ Original data provided by the book's author. Located [here](http://www.storytell
 ![](images/colors/blue/BLUE1.png)|![](images/colors/blue/BLUE2.png)|![](images/colors/blue/BLUE3.png)|![](images/colors/blue/BLUE4.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|
 
 ## RED
-|#C3514E  RED1. Fuzzy Wuzzy Brown|#E6BAB7  RED2. Rose Fog          |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
+|#800000 RED1. Maroon            |#C3514E  RED2. Fuzzy Wuzzy Brown| #E6BAB7  RED3. Rose Fog          |                                  |                                  |                                  |                                  |                                  |                                  |
 :-------------------------------:|:-------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-![](images/colors/red/RED1.png)  |![](images/colors/red/RED2.png)  |![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|
+![](images/colors/red/RED1.png)  |![](images/colors/red/RED2.png)  |![](images/colors/red/RED3.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|
 
 
 ## GREEN
@@ -60,3 +98,8 @@ Original data provided by the book's author. Located [here](http://www.storytell
 |#F79747  ORANGE1. Tan Hide          |                                  |                                  |                                  |                                  |                                  |                                  |                                  |                                  |
 :-----------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 ![](images/colors/orange/ORANGE1.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|![](images/colors/white/WHITE.png)|
+
+
+# Resources
+* Recreations in R and ggplot [here]().
+* Recreations in Python and matplotlib [here]().
