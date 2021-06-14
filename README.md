@@ -20,9 +20,9 @@ Original data provided by the book's author. Located [here](http://www.storytell
 
 |||
 |---|---|
-|Example 1|Example2|
+|(Example 1)[https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0930.ipynb]|(Example 2)[https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0931.ipynb]|
 |<img src="images/recreated/fig_0930.png">| <img src="images/recreated/fig_0931.png">|
-|Example 3|Example4|
+|(Example 3)[https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0932.ipynb]|(Example 4)[https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0929.ipynb]|
 |<img src="images/recreated/fig_0932.png">| <img src="images/recreated/fig_0929.png">|
 |||
 
@@ -30,45 +30,45 @@ Original data provided by the book's author. Located [here](http://www.storytell
 # Plots
 
 ## Chapter 2
-* [FIG0207](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0207](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0207.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0207.ipynb)
 
 
 ## Chapter 4
-* [FIG0409](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0409](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0409.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0409.ipynb)
 
 
 ## Chapter 5
-* [FIG0506](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0506](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0506.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0506.ipynb)
 
-* [FIG0510](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0510](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0510.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0510.ipynb)
 
-* [FIG0513](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0513](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0513.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0513.ipynb)
 
 
 ## Chapter 6
-* [FIG0601](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0601](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0601.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0601.ipynb)
 
-* [FIG0602](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0602](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0602.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0602.ipynb)
 
-* [FIG0603](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0603](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0603.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0603.ipynb)
 
-* [FIG0604](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0604](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0604.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0604.ipynb)
 
 
 ## Chapter 8
-* [FIG0819](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0819](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0819.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0819.ipynb)
 
 
 ## Chapter 9
-* [FIG0923](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0923](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0923.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0923.ipynb)
 
-* [FIG0929](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0929](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0929.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0929.ipynb)
 
-* [FIG0930](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0930](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0930.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0930.ipynb)
 
-* [FIG0931](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0931](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0931.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0931.ipynb)
 
-* [FIG0932](https://raw.githubusercontent.com/adamribaudo/storytelling-with-data-ggplot/master/plot%20output/FIG0203.png) / [Code](FIG0203.R)
+* [FIG0932](https://github.com/PeepData/story_telling_with_data/blob/master/images/recreated/fig_0932.png) / [Code](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0932.ipynb)
 
 
 # Colors 
@@ -101,5 +101,5 @@ Original data provided by the book's author. Located [here](http://www.storytell
 
 
 # Resources
-* Recreations in R and ggplot [here]().
-* Recreations in Python and matplotlib [here]().
+* Recreations in R and ggplot [here](https://github.com/adamribaudo/storytelling-with-data-ggplot).
+* Recreations in Python and matplotlib [here](https://github.com/empathy87/storytelling-with-data).
