@@ -20,9 +20,9 @@ Original data provided by the book's author. Located [here](http://www.storytell
 
 |||
 |---|---|
-|(Example 1)[https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0930.ipynb]|(Example 2)[https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0931.ipynb]|
+|[Example 1](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0930.ipynb)|[Example 2](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0931.ipynb)|
 |<img src="images/recreated/fig_0930.png">| <img src="images/recreated/fig_0931.png">|
-|(Example 3)[https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0932.ipynb]|(Example 4)[https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0929.ipynb]|
+|[Example 3](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0932.ipynb)|[Example 4](https://github.com/PeepData/story_telling_with_data/blob/master/notebooks/code_figure_0929.ipynb)|
 |<img src="images/recreated/fig_0932.png">| <img src="images/recreated/fig_0929.png">|
 |||
 
